@@ -1,0 +1,17 @@
+*{
+    margin-left: 20px;
+    margin-right:20px;
+}
+
+td, th {
+    border: 1px solid gray;
+
+}
+.tables{
+
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    caption-side: bottom;
+}
